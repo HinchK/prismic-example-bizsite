@@ -11,7 +11,7 @@
     "@prismicio/helpers": "^2.0.0",
     "body-parser": "~1.17.2",
     "debug": "~3.0.0",
-    "ejs": "^3.1.6",
+    "ejs": "^3.1.10",
     "errorhandler": "^1.5.1",
     "express": "~4.15.4",
     "install": "^0.13.0",
